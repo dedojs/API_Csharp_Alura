@@ -30,3 +30,12 @@ E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\obj\Debug\net6.0\refi
 E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
 E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
 E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Humanizer.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
