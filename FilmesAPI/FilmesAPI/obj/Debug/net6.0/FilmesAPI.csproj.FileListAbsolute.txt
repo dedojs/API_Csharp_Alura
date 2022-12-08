@@ -39,3 +39,9 @@ E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Micr
 E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
 E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

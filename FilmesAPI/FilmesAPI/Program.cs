@@ -14,9 +14,15 @@ builder.Services.AddDbContext<FilmeContext>(opts =>
 #endregion
 
 
+#region Adicionando Mapper
+// Adicionado o automapper para converter um filmedto em filme
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+#endregion
+
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddNewtonsoftJson(); // Adicionado o newtonsoftJson para efetuar patch
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
