@@ -45,3 +45,5 @@ E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Micr
 E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.xml
+E:\Level-up-Wiz-Alura\API_Csharp_Alura\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.xml
