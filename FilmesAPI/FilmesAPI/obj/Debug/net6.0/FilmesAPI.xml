@@ -13,5 +13,57 @@
             <response code="201">Caso a inserção seja feita com sucesso</response>
             <returns></returns>
         </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.RecuperarFilmes(System.Int32,System.Int32)">
+            <summary>
+            Busca todos os filmes cadastrados no banco
+            </summary>
+            <param name="skip">Ignora a quantidade especificada de itens </param>
+            <param name="take">Retorna a quantidade especificada de itens</param>
+            <returns></returns>
+            <response code="200">Retorna os filmes cadastrados no banco no banco</response>
+            <returns></returns>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.RecuperaFilmePorId(System.Int32)">
+            <summary>
+            Busca o filme especificado pelo ID
+            </summary>
+            <param name="id">Id do filme a ser buscado</param>
+            <returns>IActionResult</returns>
+            <response code="200">Retorna o filme especificado através do ID</response>
+            <returns></returns>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.AtualizarFilme(System.Int32,FilmesAPI.Data.Dtos.UpdateFilmeDto)">
+            <summary>
+            Atualiza todos os campos do filme que foi localizado através do ID informado
+            </summary>
+            <param name="id">Id do filme a ser atualizado</param>
+            <param name="filmeDto">Objeto com os campos necessários para atualização de um filme</param>
+            <returns>IActionResult</returns>
+            <response code="204">Sem retorno</response>
+            <returns></returns>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.AtualizarFilmeParcial(System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{FilmesAPI.Data.Dtos.UpdateFilmeDto})">
+            <summary>
+            Atualiza campos especificados do filme que foi localizado através do ID informado
+            Exemplo:
+            "op": "replace",
+            "path": "/titulo",
+            "value": "novo nome"
+            </summary>
+            <param name="id">Id do filme a ser atualizado</param>
+            <param name="patch">"Campo a ser modificado"</param>
+            <returns>IActionResult</returns>
+            <response code="204">Sem retorno</response>
+            <returns></returns>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.DeletaFilme(System.Int32)">
+            <summary>
+            Deleta o filme que for selecionado através do ID
+            </summary>
+            <param name="id">Id do filme a ser deletado</param>
+            <returns>IActionResult</returns>
+            <response code="204">Sem retorno</response>
+            <returns></returns>
+        </member>
     </members>
 </doc>
